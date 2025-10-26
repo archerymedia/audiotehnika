@@ -1,2 +1,2 @@
 # audiotehnika
-game space shooter
+sound & electronics
